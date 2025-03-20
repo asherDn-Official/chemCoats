@@ -71,14 +71,14 @@ class RelateProject extends Component {
                       <h5 className="heading">
                         <Link to="#">{data.heading}</Link>
                       </h5>
-                      <div className="elm-meta">
+                      {/* <div className="elm-meta">
                         <span>
                           <Link to="#">{data.meta}</Link>
                         </span>
                         <span>
                           <Link to="#">{data.text}</Link>
                         </span>
-                      </div>
+                      </div> */}
                     </div>
                     <div className="elm-link">
                       <Link to="#" className="icon-1 icon-search"></Link>

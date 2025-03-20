@@ -150,14 +150,14 @@ class TabProject extends Component {
                     {data.heading}
                   </Link>
                 </h5>
-                <div className="elm-meta">
+                {/* <div className="elm-meta">
                   <span>
                     <Link to="#">{data.name01}</Link>
                   </span>
                   <span>
                     <Link to="#">{data.name01}</Link>
                   </span>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>

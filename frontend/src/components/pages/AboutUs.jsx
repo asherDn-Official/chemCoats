@@ -38,7 +38,22 @@ class AboutUs extends Component {
           id: 1,
           classnames: "heading",
           title: "WHAT WE DO",
-          text: "“We specialize in providing top-notch industrial flooring solutions, focusing on industrial epoxy flooring and industrial polyurethane flooring (PU flooring). Our dedicated team offers comprehensive services, drawing upon 17 years of valuable experience in the field. We stand out for delivering unmatched service quality, utilizing the finest products, and offering unparalleled technical support in the industrial flooring industry.”",
+          text: [
+            "We specialize in providing top-notch industrial flooring solutions, focusing on industrial epoxy flooring and ",
+            <a
+              key="polyurethane-flooring"
+              href="/polyurethane-flooring"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{
+                color: "#e26016",
+                textDecoration: "none",
+              }}
+            >
+              industrial polyurethane flooring (PU flooring)
+            </a>,
+            ". Our dedicated team offers comprehensive services, drawing upon 17 years of valuable experience in the field. We stand out for delivering unmatched service quality, utilizing the finest products, and offering unparalleled technical support in the industrial flooring industry.",
+          ],
           classtext: "sub-heading",
         },
       ],

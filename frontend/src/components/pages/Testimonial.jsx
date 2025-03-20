@@ -17,7 +17,7 @@ class Projects extends Component {
       banners: [
         {
           id: 1,
-          links: "/page-testimonial",
+          links: "/",
           titlelink: "Page",
           border: "|",
           name: "Testimonial",
