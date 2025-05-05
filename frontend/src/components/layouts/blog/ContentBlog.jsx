@@ -92,10 +92,7 @@ export default function ContentBlog() {
                     <span className="post-title-inner">
                       <Link
                         className="newblogtitlename"
-{/*                         onClick={() => {
-                          window.location.href = `/blogtype/${blogitem._id}`;
 
-                        }} */}
                        onClick={() => {
                           window.location.href = `/blog/${slug}`;
                           localStorage.setItem("blogid", blogitem._id);
