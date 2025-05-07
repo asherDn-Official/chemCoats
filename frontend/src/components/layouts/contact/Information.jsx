@@ -48,7 +48,7 @@ class Information extends Component {
                     <div className="inner">
                       <span className="fa fa-phone" />
                       <span className="text">
-                        CALL US : +91 99626 99888 , +91 88700 67777
+                        CALL US : +91 99626 99888
                       </span>
                     </div>
                   </li>
