@@ -156,22 +156,21 @@ class ContentProjectFoxcon extends Component {
             to ensure ESD-compliant conditions.
           </p>
           <p>
-            {/* The project not only underscores Foxconn's commitment to
-            high-quality standards but also highlights the importance of
-            maintaining a controlled environment to prevent electrostatic
-            discharge, which could otherwise compromise the integrity of
-            sensitive equipment and products. By prioritizing advanced ESD
-            flooring and integrating third-party validation into the process,
-            Foxconn continues to meet the demanding requirements of its
-            manufacturing operations while ensuring the safety and reliability
-            of its products. */}
             Not only do the projects exemplify Foxconn's commitment to a high
             standard quality, but also the importance of maintaining the
             environment under control, for instance, preventing electrostatic
             discharge, which may damage not only the delicate equipment and the
-            products. Considering future-advanced third-party validation of
-            ESD-floor and -embedding, as a part of the workflows, then Foxconn
-            also achieves the stringent criteria of its production line, and the
+            products. Considering future-advanced third-party validation of{" "}
+            <a
+              href="https://www.chemcoats.com/esd-flooring"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: "#007BFF", textDecoration: "underline" }}
+            >
+              ESD-floor
+            </a>{" "}
+            and -embedding, as a part of the workflows, then Foxconn also
+            achieves the stringent criteria of its production line, and the
             safety and reliability of the products are ensured.
           </p>
         </div>

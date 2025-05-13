@@ -164,22 +164,22 @@ class ContentProject extends Component {
             technology and data.
           </p>
           <p>
-            {/* The raised flooring solution enhances the workspace's adaptability,
-            allowing easy access for cable management, electrical wiring, and
-            HVAC systems beneath the surface. This modern flooring setup
-            contributes to a clean, professional aesthetic and aligns with the
-            company's goal of maintaining an efficient and secure working
-            environment. With this installation, the facility is now better
-            equipped to support its advanced technological operations while
-            providing a safe and productive setting for employees. */}
             The solution can enhance the workspace floor's workability to easily
             access it for cable management, for electrical wiring and HVAC
             installation under the floor surface. This contemporary flooring
             configuration helps produce a neat, formal look and feels in line
-            with the company's mission of running a clean, efficient and safe
-            workplace. With this installation the site is now better able to
-            accommodate its high tech operations and present a safe and
-            productive working environment for the employees.
+            with the company's mission of running a clean,{" "}
+            <a
+              href="https://www.chemcoats.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: "#007BFF", textDecoration: "underline" }}
+            >
+              efficient and safe workplace
+            </a>
+            . With this installation the site is now better able to accommodate
+            its high tech operations and present a safe and productive working
+            environment for the employees.
           </p>
         </div>
       </div>

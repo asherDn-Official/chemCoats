@@ -398,19 +398,24 @@ class SiteContentHygieneFlooring extends Component {
                       <i className="fa fa-check-circle" />
                     </span>
                     <span className="text">
-                      {" "}
                       <span style={{ fontWeight: "500", color: "#000" }}>
-                        {" "}
                         Aesthetic Options :
                       </span>{" "}
-                      {/* Hygiene flooring doesn’t have to sacrifice aesthetics for
-                      functionality. It comes in a variety of colors and
-                      designs, allowing businesses to create visually appealing
-                      spaces while maintaining high hygiene standards. */}
-                      Hygiene flooring does not have to forego aesthetics for
-                      functionality. It has various colors and layouts, allowing
-                      businesses to build visually attractive spaces while
-                      keeping up high standards of hygiene.
+                      <a
+                        href="https://www.chemcoats.com/contact/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        style={{
+                          color: "#007BFF",
+                          textDecoration: "underline",
+                        }}
+                      >
+                        Hygiene flooring
+                      </a>{" "}
+                      does not have to forego aesthetics for functionality. It
+                      has various colors and layouts, allowing businesses to
+                      build visually attractive spaces while keeping up high
+                      standards of hygiene.
                     </span>
                   </span>
                 </div>

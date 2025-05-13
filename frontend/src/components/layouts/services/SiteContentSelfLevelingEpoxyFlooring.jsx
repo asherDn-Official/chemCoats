@@ -339,20 +339,24 @@ class SiteContentSelfLevelingEpoxyFlooring extends Component {
                           {" "}
                           Hygienic Properties :
                         </span>{" "}
-                        {/* Self-leveling epoxy flooring is inherently hygienic, as
-                        its seamless surface leaves no room for dirt, grime, or
-                        microbes to accumulate. This quality makes it suitable
-                        for environments with stringent cleanliness
-                        requirements, such as pharmaceutical manufacturing
-                        facilities, food processing plants, and healthcare
-                        facilities. */}
-                        Self-leveling epoxy flooring is inherently hygienic, as
-                        its seamless surface leaves no room for dirt, grime, or
-                        microbes to accumulate. This quality makes it suitable
-                        for environments with stringent cleanliness
-                        requirements, such as pharmaceutical manufacturing
-                        facilities, food processing plants, and healthcare
-                        facilities.
+                        Self-leveling{" "}
+                        <a
+                          href="https://www.chemcoats.com/epoxy-flooring"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          style={{
+                            color: "#007BFF",
+                            textDecoration: "underline",
+                          }}
+                        >
+                          epoxy flooring
+                        </a>{" "}
+                        is inherently hygienic, as its seamless surface leaves
+                        no room for dirt, grime, or microbes to accumulate. This
+                        quality makes it suitable for environments with
+                        stringent cleanliness requirements, such as
+                        pharmaceutical manufacturing facilities, food processing
+                        plants, and healthcare facilities.
                       </span>
                     </span>
                   </div>
