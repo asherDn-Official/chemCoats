@@ -871,8 +871,6 @@ class SiteContentCarParkDeckFlooring extends Component {
                           {" "}
                           Low Maintenance :{" "}
                         </span>
-                        {/* Car park deck flooring typically requires minimal
-                        maintenance, saving time and costs over its lifespan. */}
                         Car park deck flooring has low maintenance that will
                         require minimal time and cost in its lifetime.
                       </span>

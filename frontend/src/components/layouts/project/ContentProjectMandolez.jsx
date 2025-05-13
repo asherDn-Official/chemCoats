@@ -128,25 +128,25 @@ class ContentProjectMandolez extends Component {
             most stringent safety requirements.
           </p>
           <p>
-            {/* Within a short timeframe, our team successfully addressed the
-            concern by applying dielectric coatings specifically designed to
-            provide electrical insulation and prevent contact with live
-            electrical components. The coatings we applied were fully compliant
-            with IS 15652 standards, ensuring that they met the required
-            specifications for electrical safety in industrial environments.
-            This dielectric coating not only enhanced safety by preventing
-            accidental electrical contact but also contributed to maintaining
-            the integrity of the plant's electrical systems. */}
             Over a brief period of time our team successfully resolved the issue
-            by the use of dielectric coatings, designed to act as electrical
-            insulators and to ensure the isolation from live electrical parts.
-            The coatings that we deposited were in accordance with ISO 15652
-            standard, in order to meet the required electrical safety
-            regulations in an industrial environment. Not only did this
-            electrical dielectric coating provide enhanced safety by preventing
-            spurious electrical shunting, it also aided in maintaining the
-            health/integrity of plant power systems.
+            by the use of{" "}
+            <a
+              href="https://www.chemcoats.com/di-electric-flooring"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: "#007BFF", textDecoration: "underline" }}
+            >
+              dielectric coatings
+            </a>
+            , designed to act as electrical insulators and to ensure the
+            isolation from live electrical parts. The coatings that we deposited
+            were in accordance with ISO 15652 standard, in order to meet the
+            required electrical safety regulations in an industrial environment.
+            Not only did this electrical dielectric coating provide enhanced
+            safety by preventing spurious electrical shunting, it also aided in
+            maintaining the health/integrity of plant power systems.
           </p>
+
           <p>
             {/* The quick turnaround and effective solution allowed the plant to
             continue operations without compromising the safety of their

@@ -689,14 +689,21 @@ class SiteContentTerrazoFlooring extends Component {
                     <span className="text">
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Industrial Facilities :
-                      </span>
-                      {"  "}
-                      {/* In industrial settings where durability and resistance to
-                      chemicals are essential, terrazzo flooring is chosen for
-                      manufacturing plants and warehouses. */}
-                      Terrazzo flooring is chosen for use in production
-                      facilities and storage facilities due to its need for
-                      toughness and chemical resistance.
+                      </span>{" "}
+                      <a
+                        href="https://www.chemcoats.com/contact/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        style={{
+                          color: "#007BFF",
+                          textDecoration: "underline",
+                        }}
+                      >
+                        Terrazzo flooring
+                      </a>{" "}
+                      is chosen for use in production facilities and storage
+                      facilities due to its need for toughness and chemical
+                      resistance.
                     </span>
                   </span>
                 </div>

@@ -132,23 +132,24 @@ class ContentProjectSyrmaSGS extends Component {
             environment).
           </p>
           <p>
-            {/* Understanding the critical nature of this requirement, our team
-            worked closely with Syrma SGS to design and implement an ESD
-            flooring system that met all necessary specifications for
-            conductivity, durability, and safety. The flooring solution we
-            provided was not only compliant with IEC 61340 (which governs the
-            requirements for ESD control in sensitive electronic environments)
-            but also met the latest ANSI 2020 standards, ensuring it was up to
-            date with the latest industry practices. */}
             Recognizing the critical importance of this requirement, we, a team,
-            partnered closely with Syrma SGS to develop and install an ESD
-            flooring platform, and all its pertinent specifications, i.e.,
-            conductivity, durability, and safety. The flooring solution that we
-            offered was not just in accordance with IEC 61340 (defining the
-            principles of ESD control in sensitive electronic environment) but
-            also in line with the new ANSI 2020 requirements, keeping it up to
-            date with the recent industry standard.
+            partnered closely with Syrma SGS to develop and install an{" "}
+            <a
+              href="https://www.chemcoats.com/esd-flooring"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: "#007BFF", textDecoration: "underline" }}
+            >
+              ESD flooring
+            </a>{" "}
+            platform, and all its pertinent specifications, i.e., conductivity,
+            durability, and safety. The flooring solution that we offered was
+            not just in accordance with IEC 61340 (defining the principles of
+            ESD control in sensitive electronic environment) but also in line
+            with the new ANSI 2020 requirements, keeping it up to date with the
+            recent industry standard.
           </p>
+
           <p>
             {/* By providing this highly controlled static current floor, we ensured
             that Syrma SGS could maintain a safe and efficient manufacturing

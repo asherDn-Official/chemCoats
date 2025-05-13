@@ -100,24 +100,32 @@ class ContentProjectAadhiTapeSolutions extends Component {
             these harsh conditions.
           </p>
           <p>
-            {/* To resolve this challenge, we developed a custom dustproof epoxy
-            solution specifically designed for the tape-cutting unit's unique
-            needs. This durable epoxy coating effectively sealed the floor,
-            preventing dust from settling and ensuring a clean, smooth surface
-            that would not interfere with the adhesive qualities of the tape.
-            The epoxy solution was engineered to be long-lasting, highly
-            resistant to abrasion, and easy to clean, making it ideal for a
-            high-traffic production environment like the tape-cutting unit. */}
-            To resolve this, we synthesized an optimized dustproof epoxy
-            coating, optimized for the tape cutting unit's needs. This very
-            durable epoxy coating provided the floor with a relatively tight
-            seal because it prevented dust from settling in and from building up
-            a clean, smooth surface that would not compromise the adhesive
-            characteristics of the tape. The epoxy solution was selected to be
-            tough, abrasion resistant and easy to clean, thus it should be
-            suitable for application in high-volume industrial setting, like the
-            tape cutting unit.
+            To resolve this, we synthesized an optimized{" "}
+            <a
+              href="https://your-esd-coating-link.com"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: "#007BFF", textDecoration: "underline" }}
+            >
+              epoxy coating
+            </a>
+            , optimized for the tape cutting unit's needs. This very durable{" "}
+            <a
+              href="https://www.chemcoats.com/epoxy-flooring "
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: "#007BFF", textDecoration: "underline" }}
+            >
+              epoxy coating
+            </a>{" "}
+            provided the floor with a relatively tight seal because it prevented
+            dust from settling in and from building up a clean, smooth surface
+            that would not compromise the adhesive characteristics of the tape.
+            The epoxy solution was selected to be tough, abrasion resistant and
+            easy to clean, thus it should be suitable for application in
+            high-volume industrial setting, like the tape cutting unit.
           </p>
+
           <p>
             {/* By implementing this dustproof epoxy flooring, we helped the 3M
             facility maintain optimal conditions for their tape production

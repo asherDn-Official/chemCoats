@@ -893,14 +893,20 @@ class SiteContentPolishedConcreteFlooring extends Component {
                     <span className="text">
                       <span style={{ fontWeight: "500", color: "#000" }}>
                         Green Building Projects :
-                      </span>
-                      {"  "}
-                      {/* Polished concrete is considered a sustainable flooring
-                      option and is used in eco-friendly and LEED-certified
-                      building projects. */}
-                      Polished concrete is considered a sustainable flooring
-                      option and is used in eco-friendly and LEED-certified
-                      building projects.
+                      </span>{" "}
+                      <a
+                        href="https://www.chemcoats.com/contact"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        style={{
+                          color: "#007BFF",
+                          textDecoration: "underline",
+                        }}
+                      >
+                        Polished concrete
+                      </a>{" "}
+                      is considered a sustainable flooring option and is used in
+                      eco-friendly and LEED-certified building projects.
                     </span>
                   </span>
                 </div>

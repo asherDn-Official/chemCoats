@@ -824,11 +824,22 @@ class SiteContentHeavyDutyEpoxyFlooring extends Component {
                     <span className="text">
                       {" "}
                       <span style={{ fontWeight: "500", color: "#000" }}>
-                        Cold Storage and Freezer Facilities :{" "}
+                        Cold Storage and Freezer Facilities:{" "}
                       </span>
-                      Epoxy flooring can withstand extreme cold temperatures,
-                      making it suitable for use in cold storage warehouses and
-                      freezer rooms
+                      <a
+                        href="https://www.chemcoats.com/epoxy-flooring"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        style={{
+                          color: "#007BFF",
+                          textDecoration: "underline",
+                        }}
+                      >
+                        Epoxy flooring
+                      </a>{" "}
+                      can withstand extreme cold temperatures, making it
+                      suitable for use in cold storage warehouses and freezer
+                      rooms.
                     </span>
                   </span>
                 </div>
