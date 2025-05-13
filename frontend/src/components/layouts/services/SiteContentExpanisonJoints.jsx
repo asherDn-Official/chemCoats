@@ -628,18 +628,19 @@ class SiteContentExpanisonJoints extends Component {
                           {" "}
                           Building Construction :
                         </span>{" "}
-                        {/* In commercial and residential buildings to prevent
-                        cracks in concrete floors, walls, and ceilings. In
-                        high-rise buildings to allow for vertical movement
-                        caused by wind loads and thermal expansion. In facades
-                        to accommodate movement between different building
-                        materials. */}
                         For building commercial and residential structures with
-                        the aim of preventing concrete floor, wall, and ceiling
-                        cracks. In high-rise buildings to allow for vertical
-                        movement caused by wind loads and thermal expansion. In
-                        facades to accommodate movement between different
-                        building materials.
+                        the aim of preventing{" "}
+                        <a
+                          href="https://www.chemcoats.com/di-polished-concrete-flooring"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          concrete floor
+                        </a>
+                        , wall, and ceiling cracks. In high-rise buildings to
+                        allow for vertical movement caused by wind loads and
+                        thermal expansion. In facades to accommodate movement
+                        between different building materials.
                       </span>
                     </span>
                   </div>

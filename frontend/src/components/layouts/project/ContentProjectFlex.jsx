@@ -185,22 +185,22 @@ class ContentProjectFlex extends Component {
             be applied to ESD-prone environments.
           </p>
           <p>
-            {/* This comprehensive approach ensured that the Anti-Static Flooring
-            solution was not only highly effective but also reliable and
-            compliant with the demanding requirements of the FLEX – INTEL
-            Project. By adhering to the highest quality standards and involving
-            independent testing at every stage, we were able to deliver a
-            solution that ensured optimal performance, minimized the risk of
-            static-related damage, and contributed to the overall efficiency and
-            safety of the facility. */}
             This one-stop-shop concept confirmed that both powerful,
-            easy-to-apply and durable, adhesive Anti-Static Flooring solution is
-            also compliant with the demanding criteria of the FLEX INTEL
-            Project. By strictly adhering to the best in class quality standards
-            and independent testing across the pipeline, we were able to present
-            a solution able to achieve maximum performance, while reducing
-            static-induced degradation risk while simultaneously supporting
-            broader facility efficiency and safety.
+            easy-to-apply and durable, adhesive{" "}
+            <a
+              href="https://www.chemcoats.com/anti-static-epoxy-flooring "
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: "#007BFF", textDecoration: "underline" }}
+            >
+              Anti-Static Flooring
+            </a>{" "}
+            solution is also compliant with the demanding criteria of the FLEX
+            INTEL Project. By strictly adhering to the best in class quality
+            standards and independent testing across the pipeline, we were able
+            to present a solution able to achieve maximum performance, while
+            reducing static-induced degradation risk while simultaneously
+            supporting broader facility efficiency and safety.
           </p>
         </div>
       </div>

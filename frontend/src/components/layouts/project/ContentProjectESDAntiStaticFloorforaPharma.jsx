@@ -145,32 +145,27 @@ class ContentProjectESDAntiStaticFloorforaPharma extends Component {
             resistance, comfort, as well as durability.
           </p>
           <p>
-            {/* This type of flooring is often used in environments where workers
-            stand for long periods or in areas where slip resistance is crucial.
-            For those seeking a seamless and highly durable solution, ESD epoxy
-            flooring is a popular choice. It consists of a self-leveling epoxy
-            resin that creates a smooth, long-lasting surface ideal for
-            high-tech areas like clean rooms and laboratories. ESD tile
-            flooring, typically made from vinyl or ceramic tiles, provides a
-            modular approach to ESD protection, allowing individual tiles to be
-            replaced if damaged while still maintaining an effective anti-static
-            environment. Lastly, conductive carpet tiles offer an aesthetic,
-            comfortable solution for offices or less industrial settings, where
-            a softer walking surface is desired but static control is still
-            important. */}
             Such floorings are routinely used in the situations where the
             employees are in statuesque position for prolonged periods or where
-            skid resistance is also required. ESD epoxy flooring is a nice
-            solution to those who want a wide and durable construction. Its
-            construction is based on a self-levelling epoxy resin providing a
-            hard, wear-resistant surface suitable for such cutting-edge
-            technologies as clean rooms and laboratories. Electrostatic
-            discharge (ESD) tile flooring (e.g., vinyl or ceramic tiles) provide
-            a plug-and-play option for ESD protection in that, porous tiles,
-            which can get damaged, can be simply replaced without ruining the
-            anti-static field. Second, conductive carpeting tiles offers a
-            visually appealing, comfortable alternative for the office or
-            industrial settings in which a more cushioned surface is desired
+            skid resistance is also required.{" "}
+            <a
+              href="https://www.chemcoats.com/esd-flooring"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: "#007BFF", textDecoration: "underline" }}
+            >
+              ESD epoxy flooring
+            </a>{" "}
+            is a nice solution to those who want a wide and durable
+            construction. Its construction is based on a self-levelling epoxy
+            resin providing a hard, wear-resistant surface suitable for such
+            cutting-edge technologies as clean rooms and laboratories.
+            Electrostatic discharge (ESD) tile flooring (e.g., vinyl or ceramic
+            tiles) provide a plug-and-play option for ESD protection in that,
+            porous tiles, which can get damaged, can be simply replaced without
+            ruining the anti-static field. Second, conductive carpeting tiles
+            offers a visually appealing, comfortable alternative for the office
+            or industrial settings in which a more cushioned surface is desired
             while static control is required.
           </p>
         </div>
