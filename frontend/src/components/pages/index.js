@@ -15,7 +15,7 @@ import ServiceDetailAntiStaticEpoxyFlooring from "./ServiceDetailAntiStaticEpoxy
 import ServiceDetailEsdFlooring from "./ServiceDetailEsdFlooring";
 import ServiceDetailAccessFloors from "./ServiceDetailAccessFloors";
 import ServiceDetailCarParkDeckFlooring from "./ServiceDetailCarParkDeckFlooring";
-import ServiceDetailSportsFlooring from "./ServiceDetailSportsFlooring";
+// import ServiceDetailSportsFlooring from "./ServiceDetailSportsFlooring";
 import ServiceDetailCleanRoomFlooring from "./ServiceDetailCleanRoomFlooring";
 import ServiceDetailHeavyDutyEpoxyFlooring from "./ServiceDetailHeavyDutyEpoxyFlooring";
 import ServiceDetailHygieneFlooring from "./ServiceDetailHygieneFlooring";
@@ -128,10 +128,10 @@ const routes = [
     component: ServiceDetailCarParkDeckFlooring,
   },
 
-  {
-    path: "/sports-flooring",
-    component: ServiceDetailSportsFlooring,
-  },
+  // {
+  //   path: "/sports-flooring",
+  //   component: ServiceDetailSportsFlooring,
+  // },
 
   {
     path: "/di-clean-room-flooring",
@@ -154,17 +154,17 @@ const routes = [
   },
 
   {
-    path: "/quartz-flooring",
+    path: "/cold-storage-flooring",
     component: ServiceDetailQuartzFlooring,
   },
 
   {
-    path: "/terrazo-flooring",
+    path: "/acid-resistance-flooring",
     component: ServiceDetailTerrazoFlooring,
   },
 
   {
-    path: "/di-polished-concrete-flooring",
+    path: "/car-park-coating",
     component: ServiceDetailPolishedConcreteFlooring,
   },
   {

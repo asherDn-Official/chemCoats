@@ -183,7 +183,7 @@ class SidebarAccessFloors extends Component {
                     <span className="text">CAR PARK DECK FLOORING</span>
                   </Link>
                 </li>
-                <li className="list-item">
+                {/* <li className="list-item">
                   <Link
                     onMouseEnter={(e) => (e.target.style.color = "black")}
                     onMouseLeave={(e) => (e.target.style.color = "white")}
@@ -195,7 +195,7 @@ class SidebarAccessFloors extends Component {
                   >
                     <span className="text">SPORTS FLOORING</span>
                   </Link>
-                </li>
+                </li> */}
                 <li className="list-item">
                   <Link
                     onMouseEnter={(e) => (e.target.style.color = "black")}
@@ -253,12 +253,12 @@ class SidebarAccessFloors extends Component {
                     onMouseEnter={(e) => (e.target.style.color = "black")}
                     onMouseLeave={(e) => (e.target.style.color = "white")}
                     to="#"
-                    title="Quartz Flooring"
+                    title="COLD STORAGE FLOORING"
                     onClick={() => {
-                      window.location.href = "/quartz-flooring";
+                      window.location.href = "/cold-storage-flooring";
                     }}
                   >
-                    <span className="text">QUARTZ FLOORING</span>
+                    <span className="text">COLD STORAGE FLOORING</span>
                   </Link>
                 </li>
                 <li className="list-item">
@@ -268,10 +268,10 @@ class SidebarAccessFloors extends Component {
                     to="#"
                     title="Terrazzo Flooring"
                     onClick={() => {
-                      window.location.href = "/terrazo-flooring";
+                      window.location.href = "/acid-resistance-flooring";
                     }}
                   >
-                    <span className="text">TERRAZO FLOORING</span>
+                    <span className="text">ACID RESISTANCE FLOORING</span>
                   </Link>
                 </li>
                 <li className="list-item">
@@ -279,12 +279,12 @@ class SidebarAccessFloors extends Component {
                     onMouseEnter={(e) => (e.target.style.color = "black")}
                     onMouseLeave={(e) => (e.target.style.color = "white")}
                     to="#"
-                    title="Polished Concrete Flooring"
+                    title="CAR PARK COATING"
                     onClick={() => {
-                      window.location.href = "/di-polished-concrete-flooring";
+                      window.location.href = "/car-park-coating";
                     }}
                   >
-                    <span className="text">POLISHED CONCRETE FLOORING</span>
+                    <span className="text">CAR PARK COATING</span>
                   </Link>
                 </li>
                 <li className="list-item">

@@ -10,12 +10,11 @@ class TopBar extends Component {
             <div className="top-bar-content">
               <div className="inner">
                 <span className="address content">
-                  17, Srinivasa Reddy St, T Nagar
+                  {/* 17, Srinivasa Reddy St, T Nagar */}
+                  19/10, Rangarajapuram 3rd Street, West Jafferkhanpet
                 </span>
-                <span className="phone content">
-                  +91 99626 99888
-                </span>
-                <span className="time content">Mon-Sat: 9am - 8pm</span>
+                <span className="phone content">+91 99626 99888</span>
+                {/* <span className="time content">Mon-Sat: 9am - 8pm</span> */}
               </div>
             </div>
             <div className="top-bar-socials">
@@ -31,7 +30,11 @@ class TopBar extends Component {
                   <Link to="#" title="Pinterest">
                     <i className="fa fa-pinterest-p" />
                   </Link> */}
-                  <a href="https://www.linkedin.com/company/chemcoats/" title="linkedIn" target="_blank">
+                  <a
+                    href="https://www.linkedin.com/company/chemcoats/"
+                    title="linkedIn"
+                    target="_blank"
+                  >
                     <i className="fa fa-linkedin" />
                   </a>
                 </span>

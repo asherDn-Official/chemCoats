@@ -2,7 +2,7 @@ const menus = [
   {
     id: 1,
     name: "Home",
-    nameLink: "/",  
+    nameLink: "/",
     namesub: [],
     title: "Home",
   },
@@ -54,12 +54,12 @@ const menus = [
         links: "/car-park-deck-flooring",
         title: "Learn more about Car Park Deck Flooring",
       },
-      {
-        id: 8,
-        sub: "SPORTS FLOORING",
-        links: "/sports-flooring",
-        title: "Learn more about Sports Flooring",
-      },
+      // {
+      //   id: 8,
+      //   sub: "SPORTS FLOORING",
+      //   links: "/sports-flooring",
+      //   title: "Learn more about Sports Flooring",
+      // },
       {
         id: 9,
         sub: "CLEAN ROOM FLOORING",
@@ -86,21 +86,21 @@ const menus = [
       },
       {
         id: 13,
-        sub: "QUARTZ FLOORING",
-        links: "/quartz-flooring",
-        title: "Learn more about Quartz Flooring",
+        sub: "COLD STORAGE FLOORING",
+        links: "/cold-storage-flooring",
+        title: "Learn more about COLD STORAGE FLOORING",
       },
       {
         id: 14,
-        sub: "TERRAZO FLOORING",
-        links: "/terrazo-flooring",
-        title: "Learn more about Terrazzo Flooring",
+        sub: "ACID RESISTANCE FLOORING",
+        links: "/acid-resistance-flooring",
+        title: "Learn more about ACID RESISTANCE FLOORING",
       },
       {
         id: 15,
-        sub: "POLISHED CONCRETE FLOORING",
-        links: "/di-polished-concrete-flooring",
-        title: "Learn more about Polished Concrete Flooring",
+        sub: "CAR PARK COATING",
+        links: "/car-park-coating",
+        title: "Learn more about CAR PARK COATING",
       },
       {
         id: 16,

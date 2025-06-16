@@ -7,6 +7,7 @@ import {
   SiteContent,
   SiteContentQuartzFlooring,
 } from "../layouts/services/index";
+import SiteContentColdStorageFlooring from "../layouts/services/SiteContentQuartzFlooring";
 
 class ServiceDetailQuartzFlooring extends Component {
   constructor(props) {
@@ -47,7 +48,7 @@ class ServiceDetailQuartzFlooring extends Component {
             ))}
             <div id="main-content" className="site-main clearfix">
               <div id="content-wrap" className="container">
-                <SiteContentQuartzFlooring />
+                <SiteContentColdStorageFlooring />
                 <SidebarQuartzFlooring />
               </div>
             </div>

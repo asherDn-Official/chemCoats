@@ -6,7 +6,6 @@ import SiteContentAntiStaticEpoxyFlooring from "./SiteContentAntiStaticEpoxyFloo
 import SiteContentEsdFlooring from "./SiteContentEsdFlooring";
 import SiteContentAccessFloors from "./SiteContentAccessFloors";
 import SiteContentCarParkDeckFlooring from "./SiteContentCarParkDeckFlooring";
-import SiteContentSportsFlooring from "./SiteContentSportsFlooring";
 import SiteContentCleanRoomFlooring from "./SiteContentCleanRoomFlooring";
 import SiteContentHeavyDutyEpoxyFlooring from "./SiteContentHeavyDutyEpoxyFlooring";
 import SiteContentHygieneFlooring from "./SiteContentHygieneFlooring";
@@ -63,7 +62,6 @@ export {
   SiteContentEsdFlooring,
   SiteContentAccessFloors,
   SiteContentCarParkDeckFlooring,
-  SiteContentSportsFlooring,
   SiteContentCleanRoomFlooring,
   SiteContentHeavyDutyEpoxyFlooring,
   SiteContentHygieneFlooring,

@@ -631,7 +631,7 @@ class SiteContentExpanisonJoints extends Component {
                         For building commercial and residential structures with
                         the aim of preventing{" "}
                         <a
-                          href="https://www.chemcoats.com/di-polished-concrete-flooring"
+                          href="https://www.chemcoats.com/car-park-coating"
                           target="_blank"
                           rel="noopener noreferrer"
                         >

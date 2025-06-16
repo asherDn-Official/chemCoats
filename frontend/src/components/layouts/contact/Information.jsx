@@ -40,16 +40,16 @@ class Information extends Component {
                     <div className="inner">
                       <span className="fa fa-map-marker" />
                       <span className="text">
-                        17, Srinivasa Reddy Street , T Nagar , Chennai - 600017
+                        {/* 17, Srinivasa Reddy Street , T Nagar , Chennai - 600017 */}
+                        19/10, Rangarajapuram 3rd Street, West Jafferkhanpet,
+                        Chennai, Tamil Nadu 600083
                       </span>
                     </div>
                   </li>
                   <li className="clearfix">
                     <div className="inner">
                       <span className="fa fa-phone" />
-                      <span className="text">
-                        CALL US : +91 99626 99888
-                      </span>
+                      <span className="text">CALL US : +91 99626 99888</span>
                     </div>
                   </li>
                   <li className="clearfix">

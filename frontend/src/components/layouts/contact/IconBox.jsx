@@ -15,7 +15,9 @@ class IconBox extends Component {
         {
           id: 2,
           headding:
-            "17, Srinivasa Reddy St, T. Nagar,   Chennai, Tamil Nadu 600017",
+            // "17, Srinivasa Reddy St, T. Nagar,   Chennai, Tamil Nadu 600017",
+            "19/10, Rangarajapuram 3rd Street, West Jafferkhanpet",
+
           subheading: "Mon- Sat: 9:00 am to 8 pm",
           // morelink: "Sunday: Close",
           icon: "icon-map",
@@ -48,11 +50,15 @@ class IconBox extends Component {
               </div>
               <div className="text-wrap">
                 <h5 className="heading">
-                  <Link to="#" title="heading">{data.headding}</Link>
+                  <Link to="#" title="heading">
+                    {data.headding}
+                  </Link>
                 </h5>
                 <p className="sub-heading">{data.subheading}</p>
                 <span className="class more-link">
-                  <Link to="#" title="More">{data.morelink}</Link>
+                  <Link to="#" title="More">
+                    {data.morelink}
+                  </Link>
                 </span>
               </div>
             </div>

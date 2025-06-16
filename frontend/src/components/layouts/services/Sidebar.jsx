@@ -120,8 +120,7 @@ class Sidebar extends Component {
                     to="#"
                     title="Polyurethane Flooring"
                     onClick={() => {
-                      window.location.href =
-                        "/polyurethane-flooring";
+                      window.location.href = "/polyurethane-flooring";
                     }}
                   >
                     <span className="text">POLYURETHANE FLOORING</span>
@@ -134,8 +133,7 @@ class Sidebar extends Component {
                     to="#"
                     title="Di-Electric Flooring"
                     onClick={() => {
-                      window.location.href =
-                        "/di-elecric-flooring";
+                      window.location.href = "/di-elecric-flooring";
                     }}
                   >
                     <span className="text">DI-ELECRIC FLOORING</span>
@@ -148,8 +146,7 @@ class Sidebar extends Component {
                     to="#"
                     title="anti-static-epoxy-flooring"
                     onClick={() => {
-                      window.location.href =
-                        "/anti-static-epoxy-flooring";
+                      window.location.href = "/anti-static-epoxy-flooring";
                     }}
                   >
                     <span className="text">ANTI-STATIC EPOXY FLOORING</span>
@@ -188,8 +185,7 @@ class Sidebar extends Component {
                     to="#"
                     title="car-park-deck-flooring"
                     onClick={() => {
-                      window.location.href =
-                        "/car-park-deck-flooring";
+                      window.location.href = "/car-park-deck-flooring";
                     }}
                   >
                     <span className="text">CAR PARK DECK FLOORING</span>
@@ -215,8 +211,7 @@ class Sidebar extends Component {
                     to="#"
                     title="di-clean-room-flooring"
                     onClick={() => {
-                      window.location.href =
-                        "/di-clean-room-flooring";
+                      window.location.href = "/di-clean-room-flooring";
                     }}
                   >
                     <span className="text">CLEAN ROOM FLOORING</span>
@@ -229,8 +224,7 @@ class Sidebar extends Component {
                     to="#"
                     title="di-heavy-duty-epoxy-flooring"
                     onClick={() => {
-                      window.location.href =
-                        "/di-heavy-duty-epoxy-flooring";
+                      window.location.href = "/di-heavy-duty-epoxy-flooring";
                     }}
                   >
                     <span className="text">HEAVY DUTY EPOXY FLOORING</span>
@@ -243,8 +237,7 @@ class Sidebar extends Component {
                     to="#"
                     title="di-hygiene-flooring"
                     onClick={() => {
-                      window.location.href =
-                        "/di-hygiene-flooring";
+                      window.location.href = "/di-hygiene-flooring";
                     }}
                   >
                     <span className="text">HYGIENE FLOORING</span>
@@ -257,8 +250,7 @@ class Sidebar extends Component {
                     to="#"
                     title="di-self-leveling-epoxy-flooring"
                     onClick={() => {
-                      window.location.href =
-                        "/di-self-leveling-epoxy-flooring";
+                      window.location.href = "/di-self-leveling-epoxy-flooring";
                     }}
                   >
                     <span className="text">SELF LEVELLING EPOXY FLOORING</span>
@@ -269,12 +261,12 @@ class Sidebar extends Component {
                     onMouseEnter={(e) => (e.target.style.color = "black")}
                     onMouseLeave={(e) => (e.target.style.color = "white")}
                     to="#"
-                    title="quartz-flooring"
+                    title="cold-storage-flooring"
                     onClick={() => {
-                      window.location.href = "/quartz-flooring";
+                      window.location.href = "/cold-storage-flooring";
                     }}
                   >
-                    <span className="text">QUARTZ FLOORING</span>
+                    <span className="text">COLD STORAGE FLOORING</span>
                   </Link>
                 </li>
                 <li className="list-item">
@@ -282,13 +274,12 @@ class Sidebar extends Component {
                     onMouseEnter={(e) => (e.target.style.color = "black")}
                     onMouseLeave={(e) => (e.target.style.color = "white")}
                     to="#"
-                    title="terrazo-flooring"
+                    title="acid-resistance-flooring"
                     onClick={() => {
-                      window.location.href =
-                        "/terrazo-flooring";
+                      window.location.href = "/acid-resistance-flooring";
                     }}
                   >
-                    <span className="text">TERRAZO FLOORING</span>
+                    <span className="text">ACID RESISTANCE FLOORING</span>
                   </Link>
                 </li>
                 <li className="list-item">
@@ -296,13 +287,12 @@ class Sidebar extends Component {
                     onMouseEnter={(e) => (e.target.style.color = "black")}
                     onMouseLeave={(e) => (e.target.style.color = "white")}
                     to="#"
-                    title="di-polished-concrete-flooring"
+                    title="car-park-coating"
                     onClick={() => {
-                      window.location.href =
-                        "/di-polished-concrete-flooring";
+                      window.location.href = "/car-park-coating";
                     }}
                   >
-                    <span className="text">POLISHED CONCRETE FLOORING</span>
+                    <span className="text">CAR PARK COATING</span>
                   </Link>
                 </li>
                 <li className="list-item">
@@ -312,8 +302,7 @@ class Sidebar extends Component {
                     to="#"
                     title="di-expanison-joints"
                     onClick={() => {
-                      window.location.href =
-                        "/di-expanison-joints";
+                      window.location.href = "/di-expanison-joints";
                     }}
                   >
                     <span className="text">EXPANSION JOINTS</span>

@@ -315,9 +315,10 @@ class ServiceSlide extends Component {
                           <h5 className="heading">
                             <Link
                               to="#"
-                              title="terrazo-flooring"
+                              title="acid-resistance-flooring"
                               onClick={() => {
-                                window.location.href = "/terrazo-flooring";
+                                window.location.href =
+                                  "/acid-resistance-flooring";
                               }}
                             >
                               Terrazzo Flooring
@@ -332,9 +333,10 @@ class ServiceSlide extends Component {
                           <div className="elm-readmore">
                             <Link
                               to="#"
-                              title="terrazo-flooring"
+                              title="acid-resistance-flooring"
                               onClick={() => {
-                                window.location.href = "/terrazo-flooring";
+                                window.location.href =
+                                  "/acid-resistance-flooring";
                               }}
                             >
                               DETAILS
@@ -359,10 +361,9 @@ class ServiceSlide extends Component {
                           <h5 className="heading">
                             <Link
                               to="#"
-                              title="di-polished-concrete-flooring"
+                              title="car-park-coating"
                               onClick={() => {
-                                window.location.href =
-                                  "/di-polished-concrete-flooring";
+                                window.location.href = "/car-park-coating";
                               }}
                             >
                               Polished concrete
@@ -377,10 +378,9 @@ class ServiceSlide extends Component {
                           <div className="elm-readmore">
                             <Link
                               to="#"
-                              title="di-polished-concrete-flooring"
+                              title="car-park-coating"
                               onClick={() => {
-                                window.location.href =
-                                  "/di-polished-concrete-flooring";
+                                window.location.href = "/car-park-coating";
                               }}
                             >
                               DETAILS
@@ -638,9 +638,9 @@ class ServiceSlide extends Component {
                       <div className="inner">
                         <div className="thumb data-effect-item">
                           <img
-                            src="assets\img\ServicePage\quartz-Flooring.jpeg"
-                            alt="Quartz Flooring"
-                            title="Quartz Flooring"
+                            src="assets\img\ServicePage\cold-storage-flooring.jpeg"
+                            alt="COLD STORAGE FLOORING"
+                            title="COLD STORAGE FLOORING"
                           />
                           {/* <div className="overlay-effect bg-color-accent" /> */}
                         </div>
@@ -648,16 +648,16 @@ class ServiceSlide extends Component {
                           <h5 className="heading">
                             <Link
                               to="#"
-                              title="quartz-flooring"
+                              title="cold-storage-flooring"
                               onClick={() => {
-                                window.location.href = "/quartz-flooring";
+                                window.location.href = "/cold-storage-flooring";
                               }}
                             >
-                              Quartz Flooring
+                              COLD STORAGE FLOORING
                             </Link>
                           </h5>
                           <p className="letter-spacing-01">
-                            Quartz flooring is vital in commercial and
+                            COLD STORAGE FLOORING is vital in commercial and
                             high-traffic areas due to its exceptional strength
                             and resistance to wear, making it an ideal choice
                             for maintaining....
@@ -665,9 +665,9 @@ class ServiceSlide extends Component {
                           <div className="elm-readmore">
                             <Link
                               to="#"
-                              title="quartz-flooring"
+                              title="cold-storage-flooring"
                               onClick={() => {
-                                window.location.href = "/quartz-flooring";
+                                window.location.href = "/cold-storage-flooring";
                               }}
                             >
                               DETAILS

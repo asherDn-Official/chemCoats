@@ -25,8 +25,10 @@ class Footer extends Component {
                       <div className="inner">
                         <span className="fa fa-map-marker" />
                         <span className="text">
-                          17, Srinivasa Reddy St , T Nagar, &nbsp;Chennai, Tamil
-                          Nadu 600017
+                          19/10, Rangarajapuram 3rd Street, Netaji Nagar, West
+                          Jafferkhanpet, Chennai, Tamil Nadu 600083
+                          {/* 17, Srinivasa Reddy St , T Nagar, &nbsp;Chennai, Tamil
+                          Nadu 600017 */}
                         </span>
                       </div>
                     </li>
@@ -81,8 +83,7 @@ class Footer extends Component {
                     to="#"
                     title={`Go to polyurethane-flooring`}
                     onClick={() => {
-                      window.location.href =
-                        "/polyurethane-flooring";
+                      window.location.href = "/polyurethane-flooring";
                     }}
                   >
                     POLYURETHANE FLOORING
@@ -91,8 +92,7 @@ class Footer extends Component {
                     to="#"
                     title={`di-elecric-flooring`}
                     onClick={() => {
-                      window.location.href =
-                        "/di-elecric-flooring";
+                      window.location.href = "/di-elecric-flooring";
                     }}
                   >
                     DI-ELECRIC FLOORING
@@ -101,8 +101,7 @@ class Footer extends Component {
                     to="#"
                     title={`anti-static-epoxy-flooring`}
                     onClick={() => {
-                      window.location.href =
-                        "/anti-static-epoxy-flooring";
+                      window.location.href = "/anti-static-epoxy-flooring";
                     }}
                   >
                     ANTI-STATIC EPOXY FLOORING

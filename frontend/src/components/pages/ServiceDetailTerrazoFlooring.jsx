@@ -7,6 +7,7 @@ import {
   SiteContent,
   SiteContentTerrazoFlooring,
 } from "../layouts/services/index";
+import SiteContentAcidResistanceFlooring from "../layouts/services/SiteContentTerrazoFlooring";
 
 class ServiceDetailTerrazoFlooring extends Component {
   constructor(props) {
@@ -47,7 +48,7 @@ class ServiceDetailTerrazoFlooring extends Component {
             ))}
             <div id="main-content" className="site-main clearfix">
               <div id="content-wrap" className="container">
-                <SiteContentTerrazoFlooring />
+                <SiteContentAcidResistanceFlooring />
                 <SidebarTerrazoFlooring />
               </div>
             </div>
