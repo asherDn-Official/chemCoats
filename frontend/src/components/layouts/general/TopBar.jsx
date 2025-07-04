@@ -13,7 +13,8 @@ class TopBar extends Component {
                   {/* 17, Srinivasa Reddy St, T Nagar */}
                   19/10, Rangarajapuram 3rd Street, West Jafferkhanpet
                 </span>
-                <span className="phone content">+91 99626 99888</span>
+                Industrial calls only
+                <span className="phone content"> +91 99626 99888</span>
                 {/* <span className="time content">Mon-Sat: 9am - 8pm</span> */}
               </div>
             </div>
