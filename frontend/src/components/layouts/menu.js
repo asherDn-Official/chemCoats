@@ -167,12 +167,19 @@ const menus = [
       },
     ],
   },
+  // {
+  //   id: 4,
+  //   name: "Blog",
+  //   nameLink: "/blog",
+  //   namesub: [],
+  // },
   {
     id: 4,
     name: "Blog",
-    nameLink: "/blog",
+    nameLink: "https://blog.chemcoats.com/",
     namesub: [],
   },
+
   {
     id: 5,
     name: "About Us",
